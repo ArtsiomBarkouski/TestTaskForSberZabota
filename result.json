@@ -1,0 +1,77 @@
+
+{
+  "detectives": [
+    {
+      "MainId": 1,
+      "firstName": "Sherlock",
+      "lastName": "Homes",
+      "violinPlayer": true,
+      "categories": [
+        {
+          "CategoryID": 1,
+          "CategoryName": "extras1",
+          "extra": {
+            "extraArray": [
+              {"violin":1},
+              {"cap":2}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "MainId": 1,
+      "firstName": "Sherlock2",
+      "lastName": "Homes",
+      "violinPlayer": true,
+      "categories": [
+        {
+          "CategoryID": 1,
+          "CategoryName": "extras1",
+          "extra": {
+            "extraArray": [
+              {"violin":1},
+              {"cap":2}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "MainId": 100,
+      "firstName": "Sherlock3",
+      "lastName": "Homes",
+      "violinPlayer": true,
+      "categories": [
+        {
+          "CategoryID": 5,
+          "CategoryName": "extras1",
+          "extra": {
+            "extraArray": [
+              {"violin":1},
+              {"cap":2}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "MainId": 3,
+      "firstName": "James",
+      "lastName": "Watson",
+      "violinPlayer": false,
+      "categories": [
+        {
+          "CategoryID": 1,
+          "CategoryName": "extras2",
+          "extra": null
+        }
+      ]
+    }
+  ],
+  "success": true
+}
+
+
+
+
